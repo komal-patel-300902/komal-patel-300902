@@ -14,6 +14,9 @@ I am passionate about :
 1. Vollyball
 1. Reading Books
 
+You can get in touch with me:
+
+<a href = "https://www.linkedin.com/in/komal-patel-681650204/" ><img src = "./images/linkedin.png" width = "40px" alt = "LinkedIn" style = "border-radius: 80px;"></a>
 
 
 
